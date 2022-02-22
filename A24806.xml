@@ -1,0 +1,278 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Account of the behaviour, confession and last dying speech of Sir John Johnson, who was executed at Tyburn on Tuesday the 23d day of December, anno Dom. 1690 for stealing of Mrs. Mary Wharton in company of Captain James Campbel and Archibald Montgomery, since fled.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A24806</idno>
+            <idno type="STC">Wing A242</idno>
+            <idno type="STC">ESTC R1201</idno>
+            <idno type="EEBO-CITATION">11948139</idno>
+            <idno type="OCLC">ocm 11948139</idno>
+            <idno type="VID">51353</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A24806)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51353)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 46:41)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Account of the behaviour, confession and last dying speech of Sir John Johnson, who was executed at Tyburn on Tuesday the 23d day of December, anno Dom. 1690 for stealing of Mrs. Mary Wharton in company of Captain James Campbel and Archibald Montgomery, since fled.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Langley Curtiss,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Johnston, John, --  Sir, d. 1690.</term>
+               <term>Last words.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:51353:1" rendition="simple:additions"/>
+            <head>THE <hi>An Account of the Behaviour, Confeſſion and laſt dying Speech of Sir</hi> John Johnſon, <hi>who was Exe<g ref="char:EOLhyphen"/>cuted at</hi> Tyburn, <hi>on</hi> Tueſday <hi>the</hi> 23d. <hi>day of</hi> December, anno Dom. 1690. <hi>For Stealing of Mrs.</hi> Mary Wharton, <hi>in Company of Captain</hi> James Campbel <hi>and</hi> Archibald Montgomery, <hi>ſince fled.</hi>
+            </head>
+            <p>
+               <hi>O<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Tueſday</hi> Morning, about 11 a Clock, the Priſoner was conveyed in a Mourning Coach to the place of Execution, attended by two worthy Divines of the <hi>Church of England,</hi> as alſo by one Gentleman, who was his Friend, beſides a Hearſe to bring back the Body, in order to its being interred: Being put into a Cart, out of the Coach, he ſpake to this effect,</p>
+            <p>Gentlemen, I ſuppoſe you are not ignorant for what I am brought here to dye, which is for being Acceſſary or Conſenting to the Stealing of Mrs. <hi>Mary Wharton,</hi> in company of Captain <hi>James Campbel,</hi> and one Mr. <hi>Mont<g ref="char:EOLhyphen"/>gomery:</hi> But, Gentlemen, I ſaw nothing in the whole Affair but what I thought was Juſtifiable by the Laws of this Kingdom, yet it hath pleaſed the Laws of this this Kingdom to find me Guilty; which Laws I was before ignorant of, as to this Caſe. Gentlemen, I ſhall not have time to talk of the Ignorance I have been bred up in, I never was bred at Court, neither have I been a Scholar but a Soldier, and indeed there is little Learn<g ref="char:EOLhyphen"/>ing to be found in ſuch who have been bred in the Army.</p>
+            <p>Gentlemen, on <hi>Friday</hi> the 10th of <hi>November</hi> one Mr. <hi>Montgomery</hi> and Captain <hi>Campbel,</hi> came to my Lodg<g ref="char:EOLhyphen"/>ing, with an Hanch of Veniſon, and Mr. <hi>Montgomery</hi> told me, That it was to treat one Madam <hi>Bierly</hi> and her Daughter, Perſons that I never ſaw before; yet I was perſwaded by them to be a Witneſs to this Marriage. Then we went to a Coffee-houſe. and drank two Bot<g ref="char:EOLhyphen"/>tles of Mum, but ſaid nothing material to this Point there, as I can remember of. Then we parted, and I met them both at a Coffee-houſe near to Mr. <hi>Montgome<g ref="char:EOLhyphen"/>ry</hi>'s Lodging at 6 a Clock at Night, where was C. <hi>Camp<g ref="char:EOLhyphen"/>bel;</hi> a little after came in Mr. <hi>Montgomery,</hi> and clap'd his Hand on Captain <hi>Campbel</hi>'s Shoulder, ſaying, The Buſineſs is done. Then about 9 a Clock, or a little after 8, I do not know exactly, Madam <hi>Bierly</hi>'s Coach came and carried them away. Then Capt. <hi>Campbel</hi> cal<g ref="char:EOLhyphen"/>led his Coach and 6 Horſes, and ordered the Coachman to drive to <hi>Queen-ſtreet,</hi> and there it ſtopp'd; and the young Lady was brought into the Coach, and ſhe was very Voluntary, Frank and Free, and began to ask Capt. <hi>Campbel,</hi> If he was the ſecond Brother of the Lord <hi>Argile?</hi> What his Anſwer was I am not poſitive, but ſhe told him, That ſhe knew ſeveral of his Brothers, and that my Lord <hi>Argile</hi> was married to the Dutcheſs of <hi>Lauderdale</hi>'s Daughter: And this made me think, That this muſt have been with a Voluntary Conſent, <hi>viz.</hi> to marry this Gentleman.</p>
+            <p>When we came to the Coachman's Houſe (for I knew nothing where I was going) Capt. <hi>Campbel</hi> led her up Stairs, and ſhe went with all the Freedom that a Woman could, or is poſſible to be expreſſed: Then they came before the Parſon, and the Parſon declared in Court, That they themſelves ſpake to her, That there ſhould be no Force uſed, but that ſhe did it wholly by her own Conſent. Well, when the Ceremony came to be adminiſtred, ſhe ſpoke the Words with ſuch a loud Voice, that there was none in the Room but what could hear her: After this ſhe found ſome Fault with <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Wed<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ng Ring, which was too big, ſays Cap. <hi>Camp<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>,</hi> I will have it changed: No, ſays ſhe, I will <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> for it is not lucky to change Wedding Rings <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ter ſhe had a Ribbon to make it leſs, and then <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> put it on again. Then we <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>upped; <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd after Sup<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> the Parſon ſaid, It is fit that we ſhould pray before <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> go to Bed; ſhe ſaid yes, with all her Heart, and the Parſon mad<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> very good Prayer. After this we undreſſed the <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>man, and by that time the Lady was in Bed we came in with him, and he went into Bed to her; and after the uſual Ceremonies upon theſe occa<g ref="char:EOLhyphen"/>ſions were ended, we left them, and indeed I ſaw no<g ref="char:EOLhyphen"/>thing in her Deportment but was frank and free, but for the inward Thoughts of her Heart, what they were I could not tell. In the Morning ſhe ſaid that ſhe reſt<g ref="char:EOLhyphen"/>ed very well: Then, I think, I did adviſe her and the Company, That ſhe ſhould write a Letter to her Aunt, that ſhe might not take care for her; ſhe took the Pen and Ink and writ theſe Words,</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Dear Aunt,</salute>
+                  </opener>
+                  <p>
+                     <hi>Pray be not troubled nor take no Care for me, for I am very well with my Husband Captain</hi> James Campbel, <hi>and in a ſhort time I will bring him to wait upon you.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>Then Mr. <hi>Montgomery</hi> asked her, if ſhe would dine at <hi>Pontacks;</hi> no, ſays ſhe, I had rather go to my new Lodging: Mr. <hi>Montgomery</hi> ſaid, you had better go to <hi>Pontacks.</hi> Gentlemen, I think here is none here but knows <hi>Pontacks,</hi> it is one of the greateſt Ordinaries in <hi>England.</hi> We took Coach about 10 or 11 a Clock, Mr. <hi>Montgomery</hi> told her, That his Wife ſhould come and dine with her; and, ſays he, drive to <hi>Pontacks</hi> and I will be with you preſently, and bring my Wife with me, but he did not come preſently, ſo <hi>Pontack</hi> asked us if we would have the Dinner, becauſe it would be ſpoiled; ſo we had it, and when we began to eat Mr. <hi>Monrgomery</hi> came in, and made his Apology, that his Wife could not come.</p>
+            <p>All <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>his while I perceived no alteration in her Beha<g ref="char:EOLhyphen"/>viour: So after Dinner they went and took a n<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> Lodging in <hi>Newgate-ſtreet,</hi> but I did not know of i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> afterwards; he was a great while gone; at laſt ſhe <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> What, hath Mr. <hi>Montgomery</hi> left me, and will not <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Wife come near me? and then ſhe began to be a lit<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> concerned, but after ſhe was better, and then we went to her Loding in <hi>Newgate-ſtreet,</hi> and there was every thing in good Order, and we went to Cards at L<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tra-lue for 6d a Dozen; and then at Night it was <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>k'd her if ſhe would go to bed, and ſhe readily conſent<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> This was the ſecond Night, and I opened the Curtain and look'd upon her, and ſaw nothing of any diſcom<g ref="char:EOLhyphen"/>poſure in her, but an equal Satisfaction in both their Faces.</p>
+            <p>The next Morning my Lord Chief Juſtice's Order came out to take Mrs. <hi>Wharton,</hi> whereever ſhe could be had; then the Landlord told Captain <hi>Campbel</hi> of it, That there was a Meſſage came to him for his Wife: then it was after adviſed that we ſhould retire, and I put on my Cloaths and came down Stairs; and found Captain <hi>Campbel</hi> gone, and ſhe was dreſſing her ſelf, but I ſaw no Concern in her; then I went to a Coffee-houſe, and ſmoaked a Pipe, and then came back again, and found that ſhe was carried away. And Gentlemen, take notice of this, pray now, what ſhe ſaid to the Landlord before ſhe went; <hi>'Tis true,</hi> ſays ſhe, <hi>that what I have done is by my own Conſent, but, however, I cannot love him, and therefore will not live with him, b<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> I will not hurt one Hair of any of their Heads.</hi> This the Gentleman, the Apothecary in <hi>Newgate ſtreet,</hi> told me himſelf. The next <hi>Sunday</hi> after this I ſent one Mr. <hi>A<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>re</hi> to my Landlord's Houſe (meaning the Apotheca<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>s) to take me out ſome Linnen out of my Chamber; and he told me, when he came back, That there was none but the Maid at home: Then ſays I, I may go the more ſafe, and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ake out, ſome Linnen my ſelf: So I went to the <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and ſaw my Landlord and Landl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>dy, who told <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> with all imaginable Expreſſions
+<pb facs="tcp:51353:2"/>Kindneſs, That I ſhould be ſafe; but when I went in I was immediately taken by the Conſtables there. This is the Truth as near as I can ſpeak it. Gentlemen, I tell you, as I am a Dying Man, that I never ſaw any thing done by Force, neither was there any Intentions to force any thing upon this Gentlewoman contrary to her own Inclinations: But indeed it is true I was a Stranger to the Laws of <hi>England,</hi> which ſays, <hi>That an Acceſſary ſhall be found Guilty as well as the Principal.</hi>
+            </p>
+            <p>Here he ſtopp'd a little, the Divines ſpeaking to him—then went on.</p>
+            <p>Gentlemen, I had forgot one thing until theſe Reve<g ref="char:EOLhyphen"/>rend Divines put me in mind of it: Mr. <hi>Montgomery</hi> told me, That he would aſſure me there ſhould no Damage fall upon me in the whole matter, when I was invited to the Wedding. I told him, That if I thought there were any Evil Deſigns in it, I would ſacrifice my ſelf before I would have any Hand in it.</p>
+            <p>Now Gentlemen, give me leave to give you a little Hint of the Hardſhips that I have met with ſince my Impriſonment, though, by the way, I do not at all reflect upon the good Conſtitutions of the Laws of this Land, nor upon the King, Judges nor Jury, but only to ſome Paſ<g ref="char:EOLhyphen"/>ſages that occurred upon my Tryal.</p>
+            <p>Firſt, When I was brought before the Judges, I ſub<g ref="char:EOLhyphen"/>pena'd in Mrs. <hi>C.</hi> and her Maid; who knew the thing before I knew of it, when I brought them in, as to be Witneſſes for me, they were immediately indicted and brought in as Criminals, ſo that their Evidence could not avail any ways for me. And more, which is a lit<g ref="char:EOLhyphen"/>tle hard, the Coachman was brought in, and they Ac<g ref="char:EOLhyphen"/>quitted him to bring in his Wiſe a Witneſs againſt me, this is hard.</p>
+            <p>Now, Gentlemen, there is another Hardſhip, though not equivolent to this, When Mrs. <hi>Campbel</hi> was ſick, that was not taken notice of, but when <hi>Pontack</hi> was brought to witneſs, That there was no Force at all uſed to this Lady, <hi>Pontack</hi> (I pray God forgive him, I freely and heartily do) then ſaid, That he ſaw a Diſ<g ref="char:EOLhyphen"/>compoſure in her Face: which I take God to witneſs, that I ſaw no ſuch thing, and when this Man came in, he declared quite contrary: Nay, the Serjeant at Law ſtood up and ſaid, What? I warrant you are a Scotch<g ref="char:EOLhyphen"/>man. Yes, ſays I. Yea, ſays he, I thought ſo. So that I ſay, why ſhould a Man meet with that Hardſhip becauſe he is a Stranger or an Outlandiſh Man? And I cannot call my ſelf an Outlandiſh Man becauſe I am the King's Subject. I deſire, Gentlemen, that you would take this as from a Dying Mad, I ſpeak it be<g ref="char:EOLhyphen"/>cauſe I would not bring a Diſgrace upon my Family, and I deſire that you would conſider of all the Tryals that I have met with; not that I do (as I told you before) find any Fault, or any ways arraign the Conſtitution of the Law or Juſtice of the Nation, no I would not do that by any means.</p>
+            <p>And Sirs, in the Printed Papers they have wronged me, and have done me a great deal of Injury in them, for they accuſe me, that I ſhould commit a Rape in <hi>Cheſter:</hi> Who did this I know not, God forgive them.</p>
+            <p>I will declare the Truth how it was. I was going to the Caſtle at <hi>Cheſter,</hi> in the Night-time, I found a Man and a Woman in the way, and I ſaid to one of my Footmen, That it might be that thoſe were ſome of the Perſons that had abuſed my Sentry at their Poſts, for my Sentry were wont to be much abuſed, this pro<g ref="char:EOLhyphen"/>vok'd me to endeavour to ſeize this Man, but I could not catch him, then I ordered my Sentry to take care of the Woman till Morning, leſt ſhe ſhould be one of them that did abuſe my Sentries: The next Morning ſhe told me. That the Man ma<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Suit to her to Marry <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er; but ſome time after, about a Week or 10 Days, as I remember, but it was a more conſiderable time than the Laws of <hi>England</hi> provide in t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for the Law ſays, <hi>That if a Woman is raviſhed ſhe muſt cry out,</hi> b<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> this ſhe did not do for many Days after, till I was gon<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to <hi>London,</hi> and then ſhe ſwore a Rape againſt me. Whe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> I heard of it I writ to my Lieutenant to bring in proo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that I never did any ſuch thing to her: After which <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> went to <hi>Cheſter,</hi> and finding it true, I ordered Poſt hor<g ref="char:EOLunhyphen"/>ſes to be made ready to come to complain to the King of the Injuſtice that I had done me in this Caſe: The<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſhe ſaid, If ſhe had a little Money to carry her to <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> ſhe would clear me in this Caſe, and declare th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Truth; then I gave her 5 l. to declare the Truth, which ſhe gave under her Hand, and the next Day I preſented this to the Mayor, and I deſired the Laws might be pu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in execution againſt her, but ſhe was gone. Gentle men, this is Truth, concerning this Rape, that I nev<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> had any Hand in ſuch a thing.</p>
+            <p>There is another thing out that they have thrown upon me, and that is, That I ſhould be concerned i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſuch another thing as this in <hi>Holland:</hi> Gentlemen, there is one Mr. <hi>Sayers</hi> by name, Servant to one Mr. <hi>Swinford</hi> he was in the ſame Town with me, in <hi>
+                  <g ref="char:V">Ʋ</g>trecht,</hi> 6 Months he and many more will juſtifie me as to this, That the World have injur'd me, and done me much wrong.</p>
+            <p>Gentlemen, I muſt now exhort you to be careful for the Salvation of your own Precious Souls. Gentle<g ref="char:EOLhyphen"/>men, he that has been bred a Soldier has not lived ſo ſtrict to the Rules of Chriſtianity as ſome other Men. I muſt confeſs, <hi>That I have left undone thoſe things which I ought to have done; and I have done thoſe things which I ought not to have done:</hi> But however, Gentlemen, le<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> me intreat you, yea all of you, <hi>That you would remember your latter end;</hi> I pray God that none of you all may come to an untimely end; yet remember that you muſt come to an End, your Time muſt have a Period. I bleſs God my Life and Converſation has not been ſo odi<g ref="char:EOLhyphen"/>ous and obnoxious to the World, nor, (I hope) in the Sight of God, but that I have Conſidence in his Mercy; and I hope that thoſe Divines that have bee<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with me can juſtifie, That there is nothing that hath come from me, but what hath proceeded from a true and a penitent Heart; and I beg that you would offer up your Prayers to the Throne of Grace for me, becauſe no Man can ſay that he does not want the Prayers o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Righteous, for God bids all Men <hi>to pray and not to faint.</hi>
+            </p>
+            <p>Well Gentlemen, he that made Heaven and Earth keep and defend you from all Misfortunes, from the Power of Death and Hell, and then you need not fear, for Chriſt is able to ſave to the uttermoſt, all that come to him, therefore offer up your Prayers, not only for your ſelves, but for me who is a Dying Man.</p>
+            <p>Then the Miniſters prayed with him, afterwards he prayed privately, without Book, for himſelf, then be read two Prayers out of a Book, entituled, <hi>A Form of Prayer for Priſoners,</hi> and then he read the 51, and 10<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Pſalms;</hi> then he prayed again for himſelf, and after<g ref="char:EOLhyphen"/>wards ſtood up, and put on his Cap himſelf; after the Rope was about his Neck and faſtned to the Tree, he took his final Leave of all the Spectators in a moſt humble manner, recommending them to the Merciful Protecti<g ref="char:EOLhyphen"/>on of Almighty God, deſiring the continuance of their Prayers to the laſt Breath, hoping they would be ſo charitable as to joyn with him, becauſe the Prayers of the Faithful were of great Efficacy, and availed much.</p>
+            <p>And indeed in all his whole Deportment, from the Priſon thither, end in the time of his being there, he behaved himſelf with great Humility towards God, and very exemplary towards all; which drew great La<g ref="char:EOLhyphen"/>mentations, and cauſed much concernedneſs to appear in the Phyſiognomies of all that behold him.</p>
+            <p>After he had given the Signal the Cart drew away the Priſoner praying to God, and holding up his Han<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſ<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>all time after ſhe Cart was gone away.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Langley <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Fleet-bridge.</hi> 1690.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
